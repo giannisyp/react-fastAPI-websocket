@@ -38,3 +38,5 @@ npm start
 ```
 
 Open the browser in localhost:3000 and you must see a chart being updated every second.
+
+![Alt text](websockets.gif "Chart")
