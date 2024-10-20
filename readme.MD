@@ -22,9 +22,9 @@ A server in the localhost:8000 must be created.
 
 The client is implemented usign React and Recharts.
 
-Go to the frontend directory:
+Go to the websocket directory:
 
-cd frontend
+cd websocket
 Install the dependencies:
 
 ```
